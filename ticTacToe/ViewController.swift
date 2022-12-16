@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var markerPlayer2O: UILabel!
     @IBOutlet weak var firstViewLabel: UILabel!
-    
+    // button for segue to sen over information to Gamviuecontroller
     @IBAction func startButton(_ sender: Any) {
         performSegue(withIdentifier: segueToGameViewController, sender: self)
         
