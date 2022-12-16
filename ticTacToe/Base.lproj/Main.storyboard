@@ -262,6 +262,7 @@
                         <outlet property="markerTurnlabel" destination="T0i-iB-BhQ" id="2fj-Ig-ReZ"/>
                         <outlet property="playerName" destination="Mlb-J3-98R" id="hoJ-oc-LFG"/>
                         <outlet property="playerName2" destination="uBo-2N-SGK" id="rBw-tK-p1I"/>
+                        <outlet property="showPlayerTurnMarkerLabel" destination="3B2-RO-j9n" id="qAt-hJ-Cgc"/>
                         <outlet property="winLabet" destination="3B2-RO-j9n" id="p34-N6-XBo"/>
                     </connections>
                 </viewController>
